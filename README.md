@@ -5,3 +5,7 @@ The idea of this is to build a Python script. It will take the input of a YAML (
 For each item in there, it should add the create and update actions that are required.
 
 It might be that this gets complicated with certain types of resources
+
+alternative idea
+
+given a load of CloudTrail logs, build an IAM policy that permits all actions in there done by cloudformation?
